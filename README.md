@@ -1,1 +1,1 @@
-# data_science_cheet_sheet
+# data_science_cheat_sheet
